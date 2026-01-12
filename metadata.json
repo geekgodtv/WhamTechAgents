@@ -1,0 +1,5 @@
+{
+  "name": "WhamTech Agents",
+  "description": "A multi-agent strategic interface for business intelligence, generating visuals, strategy, audits, and code remixes.",
+  "requestFramePermissions": []
+}
